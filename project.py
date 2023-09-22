@@ -4,7 +4,7 @@ import random
 print("<---------- Welcome To My Project ---------->")
 ans='y'
 print("\n<---------- PLEASE SELECT YOUR CHOICE ---------->")
-print("\n1. Head and Tale Game Function Name Is Head() \n2. Calculator Funciton Name is Calculator() \n3. Quiz Game Function is Quiz() \n4. Cock Function is Clock() \n5. Shop Function is Shop()")
+print("\n1. Head and Tale Game Function Name Is Head() \n2. Calculator Funciton Name is Calculator() \n3. Quiz Game Function is Quiz() \n4. Clock Function is Clock() \n5. Shop Function is Shop()")
 choice=input("\nChoice= ")
 if choice=='1':
     a1=input("Define the Function= ")
